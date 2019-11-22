@@ -1,0 +1,13 @@
+.header{
+border-style: solid;
+border-color: red;
+text-align: center;
+}
+
+.carPic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
